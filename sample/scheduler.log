@@ -1,0 +1,64 @@
+2026-03-14 02:00:24 [ERROR] ShipmentExport: issue with Order: 4891493.
+2026-03-14 02:00:55 [INFO]  ShipmentExport: job started
+2026-03-14 02:00:58 [ERROR] InventoryRefresh: issue with Order: 4828736.
+2026-03-14 02:01:27 [INFO]  InvoiceBatch: job completed successfully
+2026-03-14 02:01:32 [WARN]  InventoryRefresh: queue depth above threshold: 1200
+2026-03-14 02:01:52 [ERROR] OrderSync: issue with Order: 4884157.
+2026-03-14 02:02:23 [WARN]  InventoryRefresh: retrying connection (attempt 2 of 3)
+2026-03-14 02:02:38 [INFO]  OrderSync: job completed successfully
+2026-03-14 02:02:59 [INFO]  InvoiceBatch: processed batch of 250 records
+2026-03-14 02:03:00 [ERROR] ShipmentExport: issue with Order: 4855513.
+2026-03-14 02:03:29 [WARN]  InventoryRefresh: retrying connection (attempt 2 of 3)
+2026-03-14 02:04:03 [ERROR] OrderSync: issue with Order: 4891779.
+2026-03-14 02:04:38 [ERROR] InvoiceBatch: issue with Order: 4801759.
+2026-03-14 02:04:40 [ERROR] InvoiceBatch: issue with Order: 4824090.
+2026-03-14 02:05:06 [INFO]  ShipmentExport: heartbeat ok
+2026-03-14 02:05:31 [INFO]  OrderSync: job completed successfully
+2026-03-14 02:05:35 [WARN]  InventoryRefresh: retrying connection (attempt 2 of 3)
+2026-03-14 02:06:09 [ERROR] OrderSync: issue with Order: 4807180.
+2026-03-14 02:06:16 [ERROR] InvoiceBatch: issue with Order: 4899422.
+2026-03-14 02:06:32 [ERROR] OrderSync: issue with Order: 4841564.
+2026-03-14 02:07:03 [ERROR] ShipmentExport: issue with Order: 4817093.
+2026-03-14 02:07:26 [INFO]  ShipmentExport: processed batch of 250 records
+2026-03-14 02:07:43 [ERROR] ShipmentExport: issue with Order: 4855513.
+2026-03-14 02:07:56 [WARN]  InventoryRefresh: slow response from upstream (4.2s)
+2026-03-14 02:08:01 [WARN]  ShipmentExport: slow response from upstream (4.2s)
+2026-03-14 02:08:07 [ERROR] InvoiceBatch: issue with Order: 4866951.
+2026-03-14 02:08:39 [INFO]  InventoryRefresh: job completed successfully
+2026-03-14 02:08:45 [ERROR] InvoiceBatch: issue with Order: 4855513.
+2026-03-14 02:09:14 [ERROR] ShipmentExport: issue with Order: 4828736.
+2026-03-14 02:09:33 [WARN]  OrderSync: queue depth above threshold: 1200
+2026-03-14 02:10:12 [INFO]  ShipmentExport: processed batch of 250 records
+2026-03-14 02:10:31 [ERROR] OrderSync: issue with Order: 4821943.
+2026-03-14 02:10:45 [WARN]  ShipmentExport: retrying connection (attempt 2 of 3)
+2026-03-14 02:11:15 [ERROR] InvoiceBatch: issue with Order: 4888512.
+2026-03-14 02:11:18 [ERROR] OrderSync: issue with Order: 4864157.
+2026-03-14 02:11:50 [WARN]  OrderSync: retrying connection (attempt 2 of 3)
+2026-03-14 02:12:00 [ERROR] InventoryRefresh: issue with Order: 4824124.
+2026-03-14 02:12:12 [ERROR] OrderSync: issue with Order: 4834210.
+2026-03-14 02:12:46 [ERROR] ShipmentExport: issue with Order: 4807173.
+2026-03-14 02:12:54 [INFO]  InvoiceBatch: job completed successfully
+2026-03-14 02:13:17 [ERROR] ShipmentExport: issue with Order: 4872111.
+2026-03-14 02:13:35 [ERROR] InventoryRefresh: issue with Order: 4879172.
+2026-03-14 02:13:51 [ERROR] ShipmentExport: issue with Order: 4807173.
+2026-03-14 02:14:15 [WARN]  InventoryRefresh: queue depth above threshold: 1200
+2026-03-14 02:14:51 [ERROR] OrderSync: issue with Order: 4840026.
+2026-03-14 02:15:11 [INFO]  ShipmentExport: heartbeat ok
+2026-03-14 02:15:39 [INFO]  OrderSync: heartbeat ok
+2026-03-14 02:16:02 [ERROR] OrderSync: issue with Order: 4816788.
+2026-03-14 02:16:11 [INFO]  OrderSync: job started
+2026-03-14 02:16:39 [ERROR] OrderSync: issue with Order: 4800377.
+2026-03-14 02:17:14 [INFO]  InvoiceBatch: job completed successfully
+2026-03-14 02:17:43 [ERROR] ShipmentExport: issue with Order: 4882515.
+2026-03-14 02:18:00 [ERROR] InvoiceBatch: issue with Order: 4828736.
+2026-03-14 02:18:22 [ERROR] InvoiceBatch: issue with Order: 4868864.
+2026-03-14 02:18:27 [ERROR] OrderSync: issue with Order: 4872167.
+2026-03-14 02:18:53 [WARN]  InvoiceBatch: queue depth above threshold: 1200
+2026-03-14 02:18:59 [INFO]  OrderSync: heartbeat ok
+2026-03-14 02:19:21 [INFO]  InvoiceBatch: processed batch of 250 records
+2026-03-14 02:19:50 [WARN]  OrderSync: retrying connection (attempt 2 of 3)
+2026-03-14 02:20:13 [ERROR] ShipmentExport: issue with Order: 4819576.
+2026-03-14 02:20:21 [ERROR] OrderSync: issue with Order: 4842450.
+2026-03-14 02:20:40 [ERROR] ShipmentExport: issue with Order: 4872111.
+2026-03-14 02:21:14 [ERROR] ShipmentExport: issue with Order: 4886534.
+2026-03-14 02:21:41 [ERROR] ShipmentExport: issue with Order: 4819576.
